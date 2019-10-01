@@ -25,5 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install dev-cli
     - name: Publish all articles
+      env:
+         DEV_API_KEY: ${{ secrets.DEV_API_KEY }}
       run: |
         find articles -name '*.md' -exec python -m dev_cli publish {} ';'

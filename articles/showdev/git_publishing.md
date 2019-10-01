@@ -5,7 +5,8 @@ tags:
   - showdev
   - tutorial
   - meta
-published: false
+published: true
+cover_image: https://thepracticaldev.s3.amazonaws.com/i/cj1cc3jk1n3w1n1yig8o.jpg
 canonical_url: https://github.com/Xowap/dev-blog/blob/master/articles/showdev/git_publishing.md
 ---
 I love publishing on [dev.to](https://dev.to/), yet there is a very big problem related to doing this: the web editor is not really dev-friendly since it doesn't allow you to version your content. There is also the constant fear of doing something wrong and losing an article that you wrote within the browser because of stupid computer crash or other kinds of CTRL+Q disasters.

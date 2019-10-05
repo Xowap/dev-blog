@@ -2,7 +2,7 @@
 title: 0 bullshit tips to stay relevant in the dev industry
 published: false
 description: Deep down a lot of developers fear becoming irrelevant to this ever-changing industry. How can one get into a safer spot?
-cover_image: https://thepracticaldev.s3.amazonaws.com/i/guub1olxk53yqec6wxpf.jpg
+cover_image: https://thepracticaldev.s3.amazonaws.com/i/b6ubehysx9jm3duhj72m.jpg
 canonical_url: https://github.com/Xowap/dev-blog/blob/master/articles/essays/0-bullshit-tips-to-stay-relevant-in-the-dev-industry.md
 ---
 
@@ -10,7 +10,7 @@ I have lately been reading a lot of comments and articles from other developers 
 
 The more I was seeing those comments the more I started to realize that I have myself been stuck in the same old stack for almost 10 years. Indeed, my first Django application [was initiated](https://github.com/Xowap/Maiznet/commit/a959a0517d93acb91c237bafa90effb19010f453) in 2011, 8 years ago.
 
-Yet, this is very contradictory to my inner feeling of using the best tool for the job. For me, Django was the best tool in 2011 and still is the best tool in 2019.
+Yet, this is very contradictory to my inner feeling of using the best tool for the job. For me, Django was the best tool for most of my jobs in 2011 and still is the best tool in 2019.
 
 Which begs the question. Am I an old fart too sure of himself? Or am I a visionary genius capable of ever-lasting good decisions?
 
@@ -55,3 +55,45 @@ Now if you consider that paradigms will shift every 10 years, if you can move fr
 As [Deep Thought](https://simple.wikipedia.org/wiki/42_(answer)) and [Elon Musk](https://youtu.be/cIQ36Kt7UVg?t=316) stated, the answer doesn't really matter if you don't really have a question. You can find online a bazillion articles giving you an astounding list of podcasts, blogs and Twitter accounts to follow in order to save you from the eternal damnation of boring stacks.
 
 So, tell me what you want, what you really really want?
+
+If you wanna be an engineer then there is probably two things that matter a lot:
+
+- Be good in your current job
+- Be desirable for another job
+
+Those two seem a bit contradictory. Indeed, to stay at your current job you need to specialize in whatever technologies the company you're in uses while on the other hand to be desirable for another job you need to know the hot shiny stuff that your company isn't using.
+
+Does it mean that you need to spend countless hours on personal projects on your free time so you don't end up locked in your soon-to-be-legacy job?
+
+Most companies can't get you on commercial projects with new shiny stuff because the company found its balance and inner ecosystem. Everyone handles well the same tools and introducing something new is slow and time-taking. But most of all introducing something new means introducing [incertainty in the planning](https://dev.to/xowap/the-way-adults-deliver-software-on-time-2bio), which is not necessarily a good idea.
+
+However there is small opportunities to test things out. Internal projects, one-shot short projects, periods of low activity, ... In France and most probably in other countries there is even a dedicated training fund for each employee that you can use to get your employer pay you a training on a specific topic. And then of course there is the possibility to train on your free time.
+
+In short there is opportunities to learn but their span is limited. The amount of time you get depends on many factors but in the end you need to focus your attention. And this make our question much more obvious.
+
+> **What should I focus my learning on?**
+
+## The basics
+
+One of my favorite sayings is "*When all you have is a hammer all problems look like a nail*". We humans are surprisingly unimaginative and all we do is repeat patterns that we've seen somewhere before. However, creativity comes in when instead of repeating the same idea pristine over and over again we can mix ideas together.
+
+While this is not a scientific proof at all, try to bear with me down this reasoning that I'm actually stealing from [another article of mine](https://dev.to/xowap/8-tips-from-john-wick-for-10x-developers-366p). Suppose that one new idea comes from the [combination](https://en.wikipedia.org/wiki/Combination) of two old ideas. In that case the number of ideas you can produce depends on how many ideas you already have.
+
+- 2 ideas can give 1 more idea
+- 3 ideas can give 3 more ideas
+- 10 ideas can give 45 more ideas
+- 100 ideas can give 4950 more ideas
+
+At this point it becomes obvious that the number of new ideas you can have increases deeply with the amount of things you already know. And the further apart those things are the more you can breathe fresh air into your problems.
+
+For this reason I recommend to get a wide scientific culture. The boring math-y stuff. What are Markov chains? How does electricity behaves? How do you make a spring resonate? How do you quantify information? All that kind of things that have nothing to do with programming. I used equations from all things mentioned above into algorithms at some point in my life.
+
+Now while that's what studying is for, if you skipped that part you can always catch up later. It's not going to be easy and it's not going to be quick, but there is books on most matters, online courses, etc. Unfortunately I don't have any specific resources to point at but nowadays most universities start putting their courses online for free so you should be able to find fine material.
+
+Then comes in the more computer-science-y stuff. There is really two books that stand out within all I've read and both of them helped me repeatedly in my career.
+
+- [Modern Operating Systems](https://en.wikipedia.org/wiki/Modern_Operating_Systems) by Andrew Tanenbaum &mdash; That book was foundational to writing Linux and the recent editions talk about many, may topics that cover most of the theoretical background you'll ever need to have regarding the way computers work.
+- [The Algorithm Design Manual](http://www.algorist.com/) by Steven Skiena &mdash; A big fat book that helps you come up with algorithms. There is a very big part of it dedicated to explaining solutions to most common algorithms. This is my go-to book when I have a new algorithm to write, usually I just need to twist one of the provided solutions.
+
+If you master the content of those two books then you'll have in your hands tools that help you understand anything that is likely to be thrown at you over the course of your career. 
+

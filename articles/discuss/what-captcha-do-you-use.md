@@ -1,7 +1,7 @@
 ---
 title: What CAPTCHA do you use?
 description: I'm tired of training Google's AI, do we have other CAPTCHA options out there?
-published: false
+published: true
 tags:
   - webdev
   - discuss

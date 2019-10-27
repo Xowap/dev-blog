@@ -1,6 +1,6 @@
 ---
 title: DEV-CLI 0.2.0
-published: false
+published: true
 description: More complete API wrapper and new internals
 canonical_url: https://github.com/Xowap/dev-blog/blob/master/articles/showdev/dev_cli_0.2.0.md
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/3wqyf6zw9c86tm06otk1.jpg
